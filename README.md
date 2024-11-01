@@ -2,8 +2,8 @@
 I am a senior student at Loyola Maryland University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 # 🚀 What I'm Up To: <br>
-🤖 Exploring Machine Learning with scikit-learn
-💻 Building Spring Boot applications with PostgreSQL
+# 🤖 Exploring Machine Learning with scikit-learn <br>
+# 💻 Building Spring Boot applications with PostgreSQL <br>
 
 
 
