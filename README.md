@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jack Thomas Doherty</h1>
 
 # 💫 About Me:
-I am a Senior student at Loyola Maryland University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a fourth-year student at Loyola Maryland University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
