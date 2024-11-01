@@ -1,6 +1,11 @@
 # 💫 About Me:
 I am a senior student at Loyola Maryland University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
+🚀 What I'm Up To
+🤖 Exploring Machine Learning with scikit-learn
+💻 Building Spring Boot applications with PostgreSQL
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/-jackdoherty/) 
