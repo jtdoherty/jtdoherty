@@ -6,7 +6,7 @@ I am a fourth-year student at Loyola Maryland University with a strong passion f
 ## 🚀 What I'm Up To
 
 - 🤖 Delving into Machine Learning using [scikit-learn](https://scikit-learn.org/)
-- 💻 Developing Node.js applications using PostgreSQL
+- 💻 Developing Spring Boot applications using PostgreSQL
 
 Check out my [coding portfolio!](https://jtdportfolio.vercel.app/)
 
