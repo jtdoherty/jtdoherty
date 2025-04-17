@@ -8,7 +8,7 @@ I am a fourth-year student at Loyola Maryland University with a strong passion f
 - 🤖 Delving into Machine Learning using [scikit-learn](https://scikit-learn.org/)
 - 💻 Developing Spring Boot applications using PostgreSQL
 
-Check out my [coding portfolio!](https://jtdportfolio.vercel.app/)
+Check out my [website!](https://jtdportfolio.vercel.app/)
 
 
 ## 🌐 Connect with me:
