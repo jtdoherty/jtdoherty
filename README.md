@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jack Thomas Doherty</h1>
+<h1 align="center">Hi 👋 I'm Jack Doherty</h1>
 
 ## 🚀 What I'm Up To
 
