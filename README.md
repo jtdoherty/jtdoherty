@@ -5,4 +5,4 @@
 - 🤖 Delving into Machine Learning using [scikit-learn](https://scikit-learn.org/)
 - 💻 Developing Spring Boot applications using PostgreSQL
 
-Check out my [website!]([https://jtdportfolio.vercel.app/](https://jtdportfolio-real.vercel.app/))
+Check out my [website!]([https://jtdportfolio-real.vercel.app/])
